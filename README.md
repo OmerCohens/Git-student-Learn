@@ -1,19 +1,18 @@
-# 🎨 Git Student Learn – Fun React App
+# 🎓 Git Student Learn – Fun React Playground
 
-This is a small and experimental React + TailwindCSS application created just for fun and learning.
+This is a small and experimental React + TailwindCSS app, built just for fun and learning.
 
-The purpose of this app is to explore how to build interactive and visually clean web apps using modern tools like React, JSX, and TailwindCSS.
+The purpose of this app is to explore building modern user interfaces using:
+- ⚛️ React (JSX-based component system)
+- 🎨 TailwindCSS (utility-first styling)
+- 🧠 Simple logic & interactivity
 
-### 🌐 Live App
+### 🌍 Live Demo
+You can try the app here:  
+👉 **[Git Student Learn – Live Site](https://OmerCohens.github.io/Git-student-Learn/)**
 
-👉 [Click here to try the app](https://omercohens.github.io/git-student-learn/)
+---
 
-It includes:
-- Dynamic UI and logic (such as calculation forms)
-- Responsive design
-- Basic accessibility toggle
-- Simple state handling for playful interfaces
+> This is not a production-grade app — it's a fun playground to try ideas, play with UI components, and practice React development.
 
-> This project is not meant for production use — just a playground for testing ideas and having fun with code.
-
-Built with ❤️ by Omer Cohen.
+Built with ❤️ by **Omer Cohen**
